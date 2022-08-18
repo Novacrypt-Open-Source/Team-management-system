@@ -1,4 +1,4 @@
-# Team-management-system
+# NovaCrypt team management system
 
 ## Contents
   - About
