@@ -16,4 +16,4 @@ We're building this project as a free alternative to al the team managament syst
 
 To be a part of this project, join our [discord server](https://discord.gg/rEg6AUWs). We'll be discussing everything about the project in this server.
 
-Read CONTRIBUTING.md and CODE_OF_CONDUCT.md to ensure that you can be a perfect fit for our community.
+Read ```CONTRIBUTING.md``` and ```CODE_OF_CONDUCT.md``` to ensure that you can be a perfect fit for our community.
